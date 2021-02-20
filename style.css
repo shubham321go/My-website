@@ -1,0 +1,13 @@
+body {
+	background-color: aqua;
+	text-align: center;
+}
+
+h1,
+h2 {
+	color: coral;
+}
+
+#School-Images {
+	height: :250px;
+}
